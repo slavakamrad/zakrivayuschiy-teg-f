@@ -132,6 +132,7 @@
 .post__paragraph {
   font-weight: "wght" var(--text-fw, 400);
   font-size: inherit;
+  line-height: 21px;
 }
 
 .post__reactions {
